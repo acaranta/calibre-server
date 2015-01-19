@@ -1,11 +1,11 @@
 calibre-server (docker)
 =====================
 
-Docker container with calibre server installed from git source 
+Docker container with calibre server installed from git source : ``https://github.com/kovidgoyal/calibre``
 
 Getting the image
 -----------------
-You can pull it from ``https://index.docker.io/u/acaranta/calibre-server/`` or clone this repo and build it.
+You can pull it from ``https://registry.hub.docker.com/u/acaranta/calibre-server/`` or clone this repo and build it.
 
 Using your library
 ------------------
